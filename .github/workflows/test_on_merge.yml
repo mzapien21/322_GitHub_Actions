@@ -1,5 +1,4 @@
 name: Test on Merge to Main
-
 on:
   push:
     branches:
